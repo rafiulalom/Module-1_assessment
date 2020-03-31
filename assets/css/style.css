@@ -1,5 +1,4 @@
 body{
-    background: #fff;
     color: #777;
     font-size: 18px;
     line-height: 1.7;
@@ -92,7 +91,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .profile-img{
     float: left;
-    margin: 0 15px 15px 0;
+    margin: 0 15px 10px 0;
 }
 .aboutme p{
     font-size: 18px;
@@ -114,10 +113,10 @@ h1, h2, h3, h4, h5, h6{
 }
 .contact-form .btn{
     border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
     background-color: #4aaaa5;
     padding: 10px 30px;
     font-size: 18px;
